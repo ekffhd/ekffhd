@@ -5,6 +5,7 @@
 - Python 3
 - Java
 - Javascript
+- Typescript
 
 ### 🌒 Tech Stack
 - Vue.js
