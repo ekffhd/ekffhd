@@ -13,9 +13,14 @@
 - Spring
 - Tensorflow
 
-### 🌓 Major Projects
+### 🌓 Career
+|Period|Company|Position|
+|--------------|:--|:--|
+|2021.01 ~ |[DeepNatural](https://deepnatural.ai/)|Frontend Developer (Intern)|
+
+### 🌔 Major Projects
 |Year|Main Stack|Title|
-|--|--|-----|
+|--|:--|:-----|
 |2020|Vue.js + Node.js + Tensorflow| Dance search interface by using activity recognition trained with Bidirectional LSTM|
 |2020|Vue.js + Node.js|Website of student union |
 
