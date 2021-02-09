@@ -22,7 +22,7 @@
 |Year|Main Stack|Title|
 |--|:--|:-----|
 |2020|Vue.js + Node.js + Tensorflow| Dance search interface by using activity recognition trained with Bidirectional LSTM|
-|2020|Vue.js + Node.js|[Website of student union](www.sejongstudent.com) |
+|2020|Vue.js + Node.js|[Website of student union](http://www.sejongstudent.com) |
 
 ### 🌕 &nbsp; Goals as a developer
 1. Creating services that can make people’s lives a much more convenient one.
